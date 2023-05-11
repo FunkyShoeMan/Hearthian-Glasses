@@ -1,9 +1,9 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "[your name]",
-  "name": "[your readable mod name]",
-  "uniqueName": "[your name].[your unique mod ID]",
+  "author": "FunkyShoeMan",
+  "name": "Hearthian Glasses",
+  "uniqueName": "FunkyShoeMan.HatchyGlassys",
   "version": "0.0.0",
-  "owmlVersion": "2.7.2",
+  "owmlVersion": "2.9.0",
   "dependencies": [ "xen.NewHorizons" ]
 }
