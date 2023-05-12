@@ -1,0 +1,151 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "TIMBER_HEARTH",
+    "Props": {
+        "details": [
+            {
+                "parentPath": "Sector_TH/Sector_Village/Sector_StartingCamp/Characters_StartingCamp/Villager_HEA_Slate/Villager_HEA_Slate_ANIM_LogSit/Slate_Skin_01:tall_rig_b_v01:TrajectorySHJnt/Slate_Skin_01:tall_rig_b_v01:ROOTSHJnt/Slate_Skin_01:tall_rig_b_v01:Spine_01SHJnt/Slate_Skin_01:tall_rig_b_v01:Spine_02SHJnt/Slate_Skin_01:tall_rig_b_v01:Spine_TopSHJnt/Slate_Skin_01:tall_rig_b_v01:Neck_01SHJnt/Slate_Skin_01:tall_rig_b_v01:Neck_TopSHJnt/",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "Sector_TH/Sector_Village/Sector_LowerVillage/Characters_LowerVillage/Villager_HEA_Porphy/Villager_HEA_Porphy_ANIM_Taste/Porphy_Skin_01:tall_rig_b_v01:TrajectorySHJnt/Porphy_Skin_01:tall_rig_b_v01:ROOTSHJnt/Porphy_Skin_01:tall_rig_b_v01:Spine_01SHJnt/Porphy_Skin_01:tall_rig_b_v01:Spine_02SHJnt/Porphy_Skin_01:tall_rig_b_v01:Spine_TopSHJnt/Porphy_Skin_01:tall_rig_b_v01:Neck_01SHJnt/Porphy_Skin_01:tall_rig_b_v01:Neck_TopSHJnt/",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "Sector_TH/Sector_Village/Sector_LowerVillage/Characters_LowerVillage/Villager_HEA_Rutile/Villager_HEA_Rutile_ANIM_Rocking/rutile_skin:Traveller_Rig_v01:Traveller_Trajectory_Jnt/rutile_skin:Traveller_Rig_v01:Traveller_ROOT_Jnt/rutile_skin:Traveller_Rig_v01:Traveller_Spine_01_Jnt/rutile_skin:Traveller_Rig_v01:Traveller_Spine_02_Jnt/rutile_skin:Traveller_Rig_v01:Traveller_Spine_Top_Jnt/rutile_skin:Traveller_Rig_v01:Traveller_Neck_01_Jnt/rutile_skin:Traveller_Rig_v01:Traveller_Neck_Top_Jnt/",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            },
+            {
+                "parentPath": "Sector_TH/Sector_Village/Sector_UpperVillage/Characters_UpperVillage/Villager_HEA_Tektite/Villager_HEA_Tektite_ANIM_Idle/Tektite_Skin:Short_Rig_V01:Trajectory_Jnt/Tektite_Skin:Short_Rig_V01:ROOT_Jnt/Tektite_Skin:Short_Rig_V01:Spine_01_Jnt/Tektite_Skin:Short_Rig_V01:Spine_02_Jnt/Tektite_Skin:Short_Rig_V01:Spine_Top_Jnt/Tektite_Skin:Short_Rig_V01:Neck_01_Jnt/Tektite_Skin:Short_Rig_V01:Neck_Top_Jnt/",
+                "assetBundle": "model/glasses",
+                "path": "Assets/Glasses.prefab",
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "scale": 1
+            }
+        ]
+    }
+}
